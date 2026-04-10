@@ -45,6 +45,44 @@ I build modern, scalable, and user-friendly web applications using the MERN stac
 
 ---
 
+## 📚 Learning Journey (Milestones)
+
+### 🚀 Milestone 1: Web Foundation
+
+* HTML & CSS
+* GitHub Basics
+
+### 📱 Milestone 2: Responsive Design
+
+* Responsive Layouts
+* CSS Frameworks (Bootstrap, Tailwind)
+
+### 🧠 Milestone 3: JavaScript Basics
+
+* Core JavaScript (Variables, Functions, Loops)
+
+### ⚡ Milestone 4: Interactive JavaScript & DOM
+
+* DOM Manipulation
+* Events & Interactivity
+
+### 🔗 Milestone 5: Intermediate JavaScript & API
+
+* ES6 Concepts
+* Fetch API & Data Handling
+
+### ⚛️ Milestone 6: React Fundamentals
+
+* Components, Props, State
+* Hooks (useState, useEffect)
+
+### 🚀 Milestone 7: Advanced React & Next.js
+
+* Advanced React Concepts
+* Introduction to Next.js
+
+---
+
 ## 🚀 Projects
 
 Here are some of my featured projects:

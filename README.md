@@ -108,16 +108,15 @@ I build modern, scalable, and user-friendly web applications using the MERN stac
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s546863s&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s546863s&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=s546863s&show_icons=true&theme=radical&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=s546863s&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s546863s&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s546863s&layout=compact&theme=radical&cache_seconds=1800" />
 </p>
 
 ---
-
 ## 🌍 Connect with Me
 
 <!-- 🔥 Social Icons -->

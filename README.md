@@ -17,25 +17,24 @@
 
 <h2>🧑‍💻 About Me</h2>
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+<table>
+  <tr>
+    <!-- Left Side: Text -->
+    <td valign="top" width="60%">
 
-  <!-- Left Content -->
-  <div style="flex: 1;">
+- 💻 Passionate about Web Development  
+- ⚛️ Specialized in React.js & Frontend Design  
+- 🌐 MERN Stack Developer  
+- 🎯 Currently learning **Advanced Backend (Node.js, MongoDB)**  
 
-  - 💻 Passionate about Web Development  
-  - ⚛️ Specialized in React.js & Frontend Design  
-  - 🌐 MERN Stack Developer  
-  - 🎯 Currently learning **Advanced Backend (Node.js, MongoDB)**  
+    </td>
 
-  </div>
-
-  <!-- Right Image -->
-  <div>
-    <img width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-  </div>
-
-</div>
-<br/>
+    <!-- Right Side: Image -->
+    <td width="40%" align="right">
+      <img width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🛠️ Tech Stack

@@ -62,7 +62,7 @@ I build modern, scalable, and user-friendly web applications using the MERN stac
 
 <!-- 🔥 Progress Animation -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?s546863s=s546863s&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=s546863s&theme=tokyonight" />
 </p>
 
 ### 🚀 Milestone 1: Web Foundation
@@ -108,12 +108,12 @@ I build modern, scalable, and user-friendly web applications using the MERN stac
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=s546863s&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s546863s&layout=compact&theme=radical" />
 </p>
 
 ---

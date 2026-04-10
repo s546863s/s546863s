@@ -84,12 +84,12 @@ Becoming a **Professional MERN Stack Developer 🚀**
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s546863s&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=s546863s&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> -->
   <img src="https://streak-stats.demolab.com?user=s546863s&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s546863s&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s546863s&layout=compact&theme=tokyonight&hide_border=true" height="170"/> -->
 </p>
 
 ---

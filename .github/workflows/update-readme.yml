@@ -1,0 +1,28 @@
+name: Update README Daily
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # প্রতিদিন রাত ১২টায় auto-run
+  workflow_dispatch:        # হাতেও চালানো যাবে
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run update script
+        run: python update_readme.py
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "🤖 Auto-update: Day $(python -c 'from update_readme import get_current_day; print(get_current_day())')"
+          git push
